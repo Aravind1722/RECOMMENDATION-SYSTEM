@@ -24,5 +24,7 @@ The MovieLens 100k dataset, one of the most widely used and standardized dataset
 
  *OUTPUT:*
 
+ ![Image](https://github.com/user-attachments/assets/a565c46f-c878-428e-8077-8fa200b3a88d)
+
  
 
